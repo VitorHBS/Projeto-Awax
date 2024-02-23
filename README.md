@@ -1,3 +1,4 @@
 Projeto feito Estudando
 Resultado :
-![Uploading screencapture-file-C-Users-vitor-Documents-vscode-Projeto-Awax-home-html-2024-02-23-19_38_56.png…]()
+![Projeto](https://github.com/VitorHBS/Projeto-Awax/assets/143558773/c1484ce7-5263-4106-83a6-bce430d001db)
+
